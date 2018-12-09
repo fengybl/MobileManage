@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DBModel\YJLDB\View\" />
+    <Folder Include="DBModel\MMSDB\View\" />
   </ItemGroup>
 
 </Project>

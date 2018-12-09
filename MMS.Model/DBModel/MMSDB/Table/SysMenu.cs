@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace YJL.Model.DBModel.YJLDB.Table
+namespace MMS.Model.DBModel.MMSDB.Table
 {
     [Table("Sys_Menu")]
     public class SysMenu

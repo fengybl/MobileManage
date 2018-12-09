@@ -4,7 +4,7 @@ using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace YJL.SupplyChain
+namespace MMS.WebClient
 {
     public class AutofacModuleRegister : Autofac.Module
     {

@@ -1,4 +1,4 @@
-﻿namespace YJL.Common
+﻿namespace MMS.Common
 {
     public class AjaxResult<TEntity> where TEntity : class 
     {

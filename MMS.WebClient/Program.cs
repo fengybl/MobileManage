@@ -7,8 +7,9 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using MMS.WebClient;
 
-namespace YJL.SupplyChain
+namespace MMS.WebClient
 {
     public class Program
     {
